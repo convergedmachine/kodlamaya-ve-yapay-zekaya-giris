@@ -82,7 +82,7 @@ Bu ders programı, yapay zeka destekli kodlamadan başlayarak, yaratıcı görse
 
 ### 13. Paket: Yapay Zekaya Giriş
 - **Tarihçe:** Turing testinden günümüze AI gelişimi.
-- Temel Kavramlar: Makine öğrenmesi vs Derin öğrenme.
+- **Temel Kavramlar:** Makine öğrenmesi vs Derin öğrenme.
 - **ml5.js'e Giriş:** Web tarayıcısında makine öğrenmesi.
 
 ### 14. Paket: Sinir Ağları ve Öğrenme
