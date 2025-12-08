@@ -90,7 +90,6 @@ Bu ders programı, yapay zeka destekli kodlamadan başlayarak, yaratıcı görse
 ### 14. Paket: Sinir Ağları ve Öğrenme
 - **Yapay Sinir Ağları (ANN):** Katmanlar, nöronlar ve aktivasyon fonksiyonları.
 - **Aktarmalı Öğrenme (Transfer Learning):** Eğitilmiş modelleri (MobileNet vb.) yeniden kullanma.
-- Feature Extraction (Özellik çıkarımı).
 
 ### 15. Paket: Metin ve Dil Modelleri
 - **Metin İşleme (NLP):** Tokenization, sentiment analysis.
