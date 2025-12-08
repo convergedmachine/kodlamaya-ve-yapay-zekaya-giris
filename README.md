@@ -8,7 +8,7 @@ Bu ders programı, yapay zeka destekli kodlamadan başlayarak, yaratıcı görse
 *Bu modül, kodlamanın değişen yüzüne odaklanır. Yapay zeka asistanları ile "Vibe Coding" kavramını ve algoritmik mantığın farklı dillere nasıl tercüme edildiğini işler.*
 
 ### 1. Paket: AI Destekli Akış (The Vibe Coding Era)
-- **Giriş:** Google's Antigravity ve Gemini Pro 1.5 ile tanışma.
+- **Giriş:** Google's Antigravity ve Gemini Pro ile tanışma.
 - **Vibe Coding Nedir?** Kod sözdiziminden (syntax) çok mantığa ve akışa odaklanma.
 - **Araçlar:** AI asistanlarını kodlama ortağı (pair programmer) olarak kullanma.
 
