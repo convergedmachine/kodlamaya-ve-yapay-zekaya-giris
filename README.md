@@ -121,7 +121,7 @@ Derse başlamadan önce aşağıdaki araçların kurulu ve test edilmiş olması
 - [ ] **Processing IDE** (Son Sürüm) - [İndir](https://processing.org/download)
 - [ ] **py5** - [Kurulum](https://py5coding.org/index.html)
 - [ ] **p5 (Python Mode)** - [Dokümantasyon](https://p5.readthedocs.io/en/latest/index.html)
-- [ ] **VS Code Entegrasyonu** (p5 için) - [Rehber](https://p5.readthedocs.io/en/latest/guides/vscode.html)
+- [ ] **Anti-Gravity Entegrasyonu** (p5 için) - [Rehber](https://p5.readthedocs.io/en/latest/guides/vscode.html)
 - [ ] **pyp5js** - [Link](https://berinhard.github.io/pyp5js/)
 
 ### ✅ Test
