@@ -63,7 +63,7 @@ Bu ders programı, yapay zeka destekli kodlamadan başlayarak, yaratıcı görse
 
 ### 10. Paket: Veri İşleme Temelleri
 - Python'da veri manipülasyonu.
-- **Pandas:** DataFrame yapısı, veri temizleme ve filtreleme.
+- **Pandas:** Veri Çerçevesi (DataFrame) yapısı, veri temizleme ve filtreleme.
 - İstatistiksel özetler çıkarma.
 
 ### 11. Paket: Statik Görselleştirme
