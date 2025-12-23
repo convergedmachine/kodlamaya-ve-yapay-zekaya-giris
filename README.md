@@ -10,7 +10,7 @@ Bu ders programı, yapay zeka destekli kodlamadan başlayarak, yaratıcı görse
 
 ### 1. Paket: YZ (AI) Destekli Akış (The Vibe Coding Era)
 - **Giriş:** Google's Antigravity ve Gemini Pro ile tanışma.
-- **Vibe Coding Nedir?** Kod sözdiziminden (syntax) çok mantığa ve akışa odaklanma.
+- **Sezgisel Kodlama (Vibe Coding) Nedir?** Kod sözdiziminden (syntax) çok mantığa ve akışa odaklanma.
 - **Araçlar:** YZ (AI) asistanlarını kodlama ortağı (pair programmer) olarak kullanma.
 
 ### 2. Paket: İstem Mühendisliği (Prompt Engineering)
